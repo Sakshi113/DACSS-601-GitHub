@@ -18,4 +18,8 @@ categories:
 ```{r}
 #Barbie
 ```
+2. “What did you eat for today’s lunch?”
+```{r}
+#Pasta
+```
 
