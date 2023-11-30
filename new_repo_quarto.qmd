@@ -1,0 +1,21 @@
+---
+title: "new_repo_quarto"
+author: "FNU Sakshi"
+description: "creating a new quarto file in a github version control R project"
+date: "11/30/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  - challenge_8
+---
+
+1. What was the last movie you watched in a theater?
+```{r}
+#Barbie
+```
+
